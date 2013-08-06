@@ -20,3 +20,6 @@ The layout for this project is based on the [play](https://github.com/play/play)
 
 Obviously the major nod goes to [html5boilerplate!](http://html5boilerplate.com/). This project is based on v4.0.2
 
+Thanks to iamkoch for seeding this effort.  I'm updating this as needed for my work and personal projects.
+
+* JQuery updated to 1.10.2
